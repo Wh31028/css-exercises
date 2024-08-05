@@ -1,0 +1,18 @@
+.odd_p {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#div_2 {
+    color: hsl(240, 100%, 48%);
+    font-size: 36px;
+}
+
+#green_div {
+    background-color: rgb(0, 246, 131);
+    font-weight: bold;
+}
+
+.font_size24 {
+    font-size: 24px;
+}
